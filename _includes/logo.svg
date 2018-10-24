@@ -10,7 +10,7 @@
     preserveaspectratio="xMidYMid meet"
     color-interpolation-filters="sRGB"
     class="logo"
-    style="margin: auto;">
+    style="margin: auto;height:100px">
     <g data-v-73fdaaa2="" id="logo" fill="aqua" class="bordersvg" transform="translate(131.06999969482422,88.13999938964844)" style="fill: aqua;">
         <polyline stroke="aqua" stroke-width="3" fill-opacity="0" points="4.1399993896484375,20 4.1399993896484375,10 67.86000061035156,10 67.86000061035156,20"></polyline>
         <polyline stroke="aqua" stroke-width="3" fill-opacity="0" points="4.1399993896484375,63.720001220703125 4.1399993896484375,73.72000122070312 67.86000061035156,73.72000122070312 67.86000061035156,63.720001220703125"></polyline>
